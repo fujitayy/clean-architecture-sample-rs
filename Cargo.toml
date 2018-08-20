@@ -1,0 +1,8 @@
+[package]
+name = "layered"
+version = "0.1.0"
+authors = ["Yuichi Fujita <fujita.y@edocode.co.jp>"]
+
+[dependencies]
+chrono = "0.4.5"
+failure = "0.1.2"
